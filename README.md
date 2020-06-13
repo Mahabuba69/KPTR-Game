@@ -1,2 +1,1 @@
-# KPTR-Game
-Thief Robber Police King game
+# microprocessor & microcontroller
